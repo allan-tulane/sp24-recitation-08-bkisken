@@ -15,5 +15,5 @@ Place all written answers from `recitation-08.md` here for easier grading.
 Work: O((V + E)logV)
 Span: O(E)
 
-- **2b)**
+- **2b)** Answer is in Main
 
